@@ -1,0 +1,12 @@
+a. <http://localhost/lw1/mysql_is_a_database_server.html>
+Ответ: 404 Not Found - ресурс не найден. Необходимо разместить файл на сервере.
+
+b. <http://localhost/lw1/nginx_is_fast_http_server.txt>
+Ответ: 200 OK - успешный ответ на запрос.
+
+c. <http://localhost/lw1/php_is_a_server_scripting_language.php>
+Ответ: 302 Found - ресурс временно отсутствует. Необходимо перейти по нужному адресу расположения ресурса.
+
+d. <http://localhost/lw1/javascript_is_a_client_side_language.php?how_to_work=hardly>
+Ответ: 400 Bad Request - плохой запрос. Необходимо исправить запрос на 
+<http://localhost/lw1/javascript_is_a_client_side_language.php?how_to_work=hard>.
